@@ -4,7 +4,7 @@
 
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Okpara Tochukwu</strong></samp></h2>
-<h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
+<h3 align='center'><strong><a href="https://xtrahuman.github.io/portfolio_website/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Full-stack software developer | JavaScript </p>
 
 <p align='left'> 📫 someone who is interested in the ever evolving tech trends, passionate about financial market and always wants to connect with other developers, feel free to reach out to me at anytime if you want to talk about tech and movies</p>
