@@ -1,56 +1,33 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# To Do List
-
-## Description
-> creating a simple todo list where u can add new task, edit, delete tasks and delete all completed tasks
-
-Demo view                                |  static view
-:---------------------------------------:|:---------------------------------------:
-![](./src/Animation2.gif)                 |  ![](./src/headshot.PNG)
+📝 ***Feel free to contact me*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/xtrahuman?label=Follow%20Me&style=social)](https://github.com/xtrahuman)
+<br>
+<br>
 
 
-## Built With
+<h2 align='center'><samp><strong>Hi there 👋, I am Okpara Tochukwu</strong></samp></h2>
+<h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
+<p align='center'>Full-stack software developer | JavaScript </p>
 
-- html
-- css
-- javascript
-- webpack
+<p align='left'> 📫 someone who is interested in the ever evolving tech trends, passionate about finacial market and always wants to connect with other developers, feel free to reach out to me at anytime if want to talk about tech and movies</p>
 
-## Procedure to clone project
-- open your terminal
-- type git clone https://github.com/xtrahuman/To-do-list.git
-- type cd To-do-list to change directory to the folder of the project
-- in your terminal npm install to install app dependencies
-- run npm run build in your terminal to build the project.
-- navigate to index.html inside the dist directory
-- open with live server or type alt l o if live-server is installed in your vscode.
+Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
 
-## project link
-kindly click the link below to view the website
-- website link: [live link](https://xtrahuman.github.io/To-do-list/)
+💻 **Languages and Tools:** 🛠️<br>
 
-## Author
-
-👤 **Okpara Tochukwu**
-
-- GitHub: [@xtrahuman](https://github.com/xtrahuman)
-- Twitter: [@xtrahuman](https://twitter.com/xtrahuman)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/tochukwu-okpara-449528197)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
+![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
+![c](https://img.shields.io/badge/-c-000000?style=flat&logo=Node.js)
+![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
+![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
+![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
 
-## 🤝 Contributing
+🧐 **Knowledge of:**<br>
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
-
+`Responsive web design`, `DOM`, `Styled Components`, `Object-Oriented Programming`, `data structures and algorithms`.
