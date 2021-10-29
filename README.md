@@ -7,7 +7,7 @@
 <h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Full-stack software developer | JavaScript </p>
 
-<p align='left'> 📫 someone who is interested in the ever evolving tech trends, passionate about finacial market and always wants to connect with other developers, feel free to reach out to me at anytime if want to talk about tech and movies</p>
+<p align='left'> 📫 someone who is interested in the ever evolving tech trends, passionate about financial market and always wants to connect with other developers, feel free to reach out to me at anytime if you want to talk about tech and movies</p>
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
 
