@@ -29,4 +29,4 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 🧐 **Knowledge of:**<br>
 
-`Responsive web design`, `DOM`, `Styled Components`, `Object-Oriented Programming`, `data structures and algorithms`.
+`Responsive web design`, `DOM`, `Styled Components`, `Object-Oriented Programming`, `Data Structures and Algorithms`.
