@@ -25,6 +25,9 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+![Postgressql](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+![Rspec](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
 
 🧐 **Knowledge of:**<br>
