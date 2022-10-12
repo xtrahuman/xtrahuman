@@ -9,7 +9,7 @@
 
 <p align='left'> 📫 someone who is interested in the ever evolving tech trends, passionate about financial market and always wants to connect with other developers, feel free to reach out to me at anytime if you want to talk about tech and movies</p>
 
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in Frontend, Backend and Cloud Development . I pay *a lot of attention to detail* to generate best products.
 
 💻 **Languages and Tools:** 🛠️<br><br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
